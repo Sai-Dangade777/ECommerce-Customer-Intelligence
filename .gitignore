@@ -1,0 +1,10 @@
+*.rpt
+*.bak
+*.tmp
+*.log
+*.cache
+*.dbmdl
+*.user
+*.suo
+desktop.ini
+.vscode/
