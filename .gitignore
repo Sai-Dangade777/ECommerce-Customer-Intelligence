@@ -6,4 +6,5 @@
 *.dbmdl
 *.user
 *.suo
+desktop.ini
 .vscode/
