@@ -1,0 +1,9 @@
+*.rpt
+*.bak
+*.tmp
+*.log
+*.cache
+*.dbmdl
+*.user
+*.suo
+.vscode/
