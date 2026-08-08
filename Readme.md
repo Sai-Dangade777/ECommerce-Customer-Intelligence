@@ -297,15 +297,15 @@ Through this project I strengthened my skills in:
 
 # 👨‍💻 Author
 
-**Sai Prasad Dangade**
+**Saiprasad Dangade**
 
 Associate Software Engineer | Aspiring Data Analyst
 
 LinkedIn:
-(Add LinkedIn URL)
+(https://www.linkedin.com/in/saiprasad-dangade/)
 
 GitHub:
-(Add GitHub Profile URL)
+(https://github.com/Sai-Dangade777/)
 
 ---
 
